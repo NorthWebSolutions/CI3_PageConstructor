@@ -9,6 +9,6 @@
             "email": "info@northweb.co.uk"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "v0.1",
     "require": {}
 }
