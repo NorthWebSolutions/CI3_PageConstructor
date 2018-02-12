@@ -6,13 +6,17 @@
  * and open the template in the editor.
  */
 
-namespace northwebsolutions\pageconstructor\core;
+namespace northwebsolutions\PageConstructor;
 
 /**
- * Description of core
+ * Description of PageConstructor
  *
  * @author mrgab
  */
-class core {
+class PageConstructor {
     //put your code here
+
+    public function index() {
+        echo "test";
+    }
 }
